@@ -17,4 +17,4 @@ Design a singly linked list with a head pointer, and write the following functio
 
 #### ex5-1
 
-String replacement
+S and T are 2 strings whose lengths are m and n respectively. Write an algorithm to figure out the max substring of them.
